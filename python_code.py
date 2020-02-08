@@ -1,1 +1,1 @@
-abciprint("Hello Github!")
+print("Hello Github!")
